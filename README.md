@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Senior Cybersecurity Governance, Risk, and Compliance (GRC) Leader with 11+ years of experience driving enterprise security, RMF authorization, and regulatory compliance programs across federal, healthcare, and cloud environments.
+I am a Senior Cybersecurity Governance, Risk, and Compliance (GRC) Leader with 11+ years of experience driving enterprise security, RMF authorization, and regulatory compliance programs across federal, healthcare, and cloud environments.
 
 Specializing in Risk Management Framework (RMF), Assessment & Authorization (ATO), and multi-framework compliance including NIST SP 800-53, FedRAMP, FISMA, ISO 27001, HIPAA, PCI DSS, and CMMC.
 
