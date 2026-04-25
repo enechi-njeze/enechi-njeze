@@ -68,38 +68,38 @@ This repository contains hands-on GRC projects, RMF documentation, risk analysis
 ## Key Achievements
 
 * Achieved zero major findings across multiple 3PAO FedRAMP audits
-* * Reduced compliance audit preparation timelines by 40%
-  * * Developed enterprise risk tracking dashboards for executive visibility
-    * * Built scalable risk register frameworks adopted across organizations
-      * * Strengthened Zero Trust IAM posture across cloud environments
+* Reduced compliance audit preparation timelines by 40%
+* Developed enterprise risk tracking dashboards for executive visibility
+* Built scalable risk register frameworks adopted across organizations
+* Strengthened Zero Trust IAM posture across cloud environments
        
-        * ---
+---
        
-        * ## Projects
+* ## Projects
        
-        * * RMF ATO Package Development
-          * * Enterprise Risk Register System
-            * * Continuous Monitoring Dashboard
-              * * AI Risk Governance Framework
+* RMF ATO Package Development
+* Enterprise Risk Register System
+* Continuous Monitoring Dashboard
+* AI Risk Governance Framework
                
-                * ---
+---
                
-                * ## Mission
+* ## Mission
                
-                * To bridge the gap between cybersecurity governance theory and real-world enterprise implementation while training and mentoring the next generation of cybersecurity professionals.
+* To bridge the gap between cybersecurity governance theory and real-world enterprise implementation while training and mentoring the next generation of cybersecurity professionals.
                
-                * ---
+---
                
-                * ## ☕ Support My Work
+* ## ☕ Support My Work
                
-                * If you find my cybersecurity projects, GRC frameworks, and training resources valuable, you can support my work here:
+* If you find my cybersecurity projects, GRC frameworks, and training resources valuable, you can support my work here:
                
-                * [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Chosky_QAcademy)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Chosky_QAcademy)
                
-                * ---
+---
                
-                * ## 📬 Let's Connect
+* ## 📬 Let's Connect
                
-                * I'm always open to connecting with cybersecurity professionals, GRC practitioners, hiring managers, and those looking to grow in the field.
+* I'm always open to connecting with cybersecurity professionals, GRC practitioners, hiring managers, and those looking to grow in the field.
                
-                * **Connect with me on LinkedIn:** [linkedin.com/in/enechi-njeze](https://www.linkedin.com/in/enechi-njeze)
+* **Connect with me on LinkedIn:** [linkedin.com/in/enechi-njeze](https://www.linkedin.com/in/enechi-njeze)
