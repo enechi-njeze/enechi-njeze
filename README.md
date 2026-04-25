@@ -1,8 +1,6 @@
 # Hello, I'm Enechi Njeze
 
-<a href="https://www.linkedin.com/in/enechi-njeze">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enechi-njeze)
 
 I am a Senior Cybersecurity Governance, Risk, and Compliance (GRC) Leader with 11+ years of experience driving enterprise security, RMF authorization, and regulatory compliance programs across federal, healthcare, and cloud environments.
 
@@ -18,7 +16,7 @@ This repository contains hands-on GRC projects, RMF documentation, risk analysis
 
 ## Expertise & Domains
 
-## Core Expertise
+### Core Expertise
 
 | Domain | Capabilities |
 |--------|-------------|
@@ -57,62 +55,51 @@ This repository contains hands-on GRC projects, RMF documentation, risk analysis
 
 ## Certifications
 
-<div>
-  <img src="https://img.shields.io/badge/-PMP-0052CC?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PMI--RMP-003087?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CISM-000000?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CISA-003366?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CGRC-005073?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CISSP_(In_Progress)-6B0AC9?&style=for-the-badge" />
-</div>div>
+[![PMP](https://img.shields.io/badge/-PMP-0052CC?&style=for-the-badge)]()
+[![PMI-RMP](https://img.shields.io/badge/-PMI--RMP-003087?&style=for-the-badge)]()
+[![CISM](https://img.shields.io/badge/-CISM-000000?&style=for-the-badge)]()
+[![CISA](https://img.shields.io/badge/-CISA-003366?&style=for-the-badge)]()
+[![CGRC](https://img.shields.io/badge/-CGRC-005073?&style=for-the-badge)]()
+[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white)]()
+[![CISSP In Progress](https://img.shields.io/badge/-CISSP_(In_Progress)-6B0AC9?&style=for-the-badge)]()
 
 ---
 
 ## Key Achievements
 
-<ul>
-  <li>Achieved zero major findings across multiple 3PAO FedRAMP audits</li>li>
-<li>Reduced compliance audit preparation timelines by 40%</li>li>
-<li>Developed enterprise risk tracking dashboards for executive visibility</li>li>
-<li>Built scalable risk register frameworks adopted across organizations</li>li>
-<li>Strengthened Zero Trust IAM posture across cloud environments</li>li>
-</ul>ul>
-
----
-
-## Projects
-
-<ul>
-  <li>RMF ATO Package Development</li>li>
-  <li>Enterprise Risk Register System</li>li>
-  <li>Continuous Monitoring Dashboard</li>li>
-  <li>AI Risk Governance Framework</li>li>
-</ul>ul>
-
----
-
-## Mission
-
-To bridge the gap between cybersecurity governance theory and real-world enterprise implementation while training and mentoring the next generation of cybersecurity professionals.
-
----
-
-## ☕ Support My Work
-
-If you find my cybersecurity projects, GRC frameworks, and training resources valuable, you can support my work here:
-
-<a href="https://buymeacoffee.com/Chosky_QAcademy">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-
----
-
-## 📬 Let's Connect
-
-I'm always open to connecting with cybersecurity professionals, GRC practitioners, hiring managers, and those looking to grow in the field.
-
-**Connect with me on LinkedIn:** [linkedin.com/in/enechi-njeze](https://www.linkedin.com/in/enechi-njeze)
-
-</ul>
-</div>
+* Achieved zero major findings across multiple 3PAO FedRAMP audits
+* * Reduced compliance audit preparation timelines by 40%
+  * * Developed enterprise risk tracking dashboards for executive visibility
+    * * Built scalable risk register frameworks adopted across organizations
+      * * Strengthened Zero Trust IAM posture across cloud environments
+       
+        * ---
+       
+        * ## Projects
+       
+        * * RMF ATO Package Development
+          * * Enterprise Risk Register System
+            * * Continuous Monitoring Dashboard
+              * * AI Risk Governance Framework
+               
+                * ---
+               
+                * ## Mission
+               
+                * To bridge the gap between cybersecurity governance theory and real-world enterprise implementation while training and mentoring the next generation of cybersecurity professionals.
+               
+                * ---
+               
+                * ## ☕ Support My Work
+               
+                * If you find my cybersecurity projects, GRC frameworks, and training resources valuable, you can support my work here:
+               
+                * [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Chosky_QAcademy)
+               
+                * ---
+               
+                * ## 📬 Let's Connect
+               
+                * I'm always open to connecting with cybersecurity professionals, GRC practitioners, hiring managers, and those looking to grow in the field.
+               
+                * **Connect with me on LinkedIn:** [linkedin.com/in/enechi-njeze](https://www.linkedin.com/in/enechi-njeze)
