@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/enechi-njeze">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>a>
 
 I am a Senior Cybersecurity Governance, Risk, and Compliance (GRC) Leader with 11+ years of experience driving enterprise security, RMF authorization, and regulatory compliance programs across federal, healthcare, and cloud environments.
 
@@ -71,41 +71,48 @@ This repository contains hands-on GRC projects, RMF documentation, risk analysis
 
 ## Key Achievements
 
-- Achieved zero major findings across multiple 3PAO FedRAMP audits
-- - Reduced compliance audit preparation timelines by 40%
-  - - Developed enterprise risk tracking dashboards for executive visibility
-    - - Built scalable risk register frameworks adopted across organizations
-      - - Strengthened Zero Trust IAM posture across cloud environments
-       
-        - ---
+<ul>
+  <li>Achieved zero major findings across multiple 3PAO FedRAMP audits</li>li>
+<li>Reduced compliance audit preparation timelines by 40%</li>li>
+<li>Developed enterprise risk tracking dashboards for executive visibility</li>li>
+<li>Built scalable risk register frameworks adopted across organizations</li>li>
+<li>Strengthened Zero Trust IAM posture across cloud environments</li>li>
+</ul>ul>
 
-        ## Projects
+---
 
-        - RMF ATO Package Development
-        - - Enterprise Risk Register System
-          - - Continuous Monitoring Dashboard
-            - - AI Risk Governance Framework
-             
-              - ---
+## Projects
 
-              ## Mission
+<ul>
+  <li>RMF ATO Package Development</li>li>
+  <li>Enterprise Risk Register System</li>li>
+  <li>Continuous Monitoring Dashboard</li>li>
+  <li>AI Risk Governance Framework</li>li>
+</ul>ul>
 
-              To bridge the gap between cybersecurity governance theory and real-world enterprise implementation while training and mentoring the next generation of cybersecurity professionals.
+---
 
-              ---
+## Mission
 
-              ## ☕ Support My Work
+To bridge the gap between cybersecurity governance theory and real-world enterprise implementation while training and mentoring the next generation of cybersecurity professionals.
 
-              If you find my cybersecurity projects, GRC frameworks, and training resources valuable, you can support my work here:
+---
 
-              <a href="https://buymeacoffee.com/Chosky_QAcademy">
-              <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-              </a>
+## ☕ Support My Work
 
-              ---
+If you find my cybersecurity projects, GRC frameworks, and training resources valuable, you can support my work here:
 
-              ## 📬 Let's Connect
+<a href="https://buymeacoffee.com/Chosky_QAcademy">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
-              I'm always open to connecting with cybersecurity professionals, GRC practitioners, hiring managers, and those looking to grow in the field.
+---
 
-              **Connect with me on LinkedIn:** [linkedin.com/in/enechi-njeze](https://www.linkedin.com/in/enechi-njeze)
+## 📬 Let's Connect
+
+I'm always open to connecting with cybersecurity professionals, GRC practitioners, hiring managers, and those looking to grow in the field.
+
+**Connect with me on LinkedIn:** [linkedin.com/in/enechi-njeze](https://www.linkedin.com/in/enechi-njeze)
+
+</ul>
+</div>
